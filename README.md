@@ -1,4 +1,4 @@
-### HEy TheRE! i AM usINg GIThuB!
+### HEy TheRE! i AM usINg [GIThuB](http://dev.jeremys.social/)!
 
 
 <a target="_blank" href="http://jeremys.social">

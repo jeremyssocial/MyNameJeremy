@@ -17,4 +17,4 @@
 <br>
 <br>
 <br>
-Also check out http://peter-schweitzer.jeremys.social
+Also check out http://peter-schweitzer.jeremys.social | http://peter.dev.near-berlin.de

@@ -25,4 +25,4 @@
 <br>
 <br>
 <br>
-<span>Also check out http://peter-schweitzer.jeremys.social | http://peter.dev.near-berlin.de</span>
+<span>Also check out <a href="http://peter-schweitzer.jeremys.social">http://peter-schweitzer.jeremys.social</a> | <a href="http://peter.dev.near-berlin.de">http://peter.dev.near-berlin.de</a></span>

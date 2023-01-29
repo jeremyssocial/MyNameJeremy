@@ -17,11 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremyssocial&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="jeremyssocial" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyssocial&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="jeremyssocial" /></p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<span>Also check out <a href="http://peter-schweitzer.jeremys.social">http://peter-schweitzer.jeremys.social</a> | <a href="http://peter.dev.near-berlin.de">http://peter.dev.near-berlin.de</a></span>
+<p align="center">Also check out: <ul><li><a href="http://peter-schweitzer.jeremys.social">http://peter-schweitzer.jeremys.social</a></li><li> <a href="http://peter.dev.near-berlin.de">http://peter.dev.near-berlin.de</a></li></ul></p>

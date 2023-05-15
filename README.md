@@ -15,11 +15,10 @@
 <br>
 <br>
 
-🔭 I’m currently working on various projects, including web development and game development.<br>
+🔭 I’m currently working on various projects, including web development and machine learning.<br>
 🌱 I'm always learning and looking for new projects to work on.<br>
 👯 I'm open to collaborating on interesting projects.<br>
 💬 Feel free to reach out to me for any questions, suggestions, or just to chat.<br>
-⚡ Fun fact: I love biking, camping, and spending time outdoors.
 
 ### 🚀💻 Technologies & Tools
 
